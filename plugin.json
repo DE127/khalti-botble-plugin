@@ -1,0 +1,10 @@
+{
+    "name": "Khalti Payment Gateway",
+    "namespace": "Subash\\Khalti\\",
+    "provider": "Subash\\Khalti\\Providers\\KhaltiServiceProvider",
+    "author": "Subash Bhattarai",
+    "url": "https://bsubash.com.np",
+    "version": "1.0",
+    "description": "Khalti payment gateway integration",
+    "require": []
+}
